@@ -22,7 +22,7 @@
 .custom .trigger{
     width: 88px;
     height: 121px;
-    background: url(l1r1.png);
+    background: url(trigger.png);
     opacity: 0;
 }
 .custom .trigger.left{
